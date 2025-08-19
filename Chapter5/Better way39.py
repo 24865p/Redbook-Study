@@ -1,5 +1,5 @@
 #
-# 아이템 39
+# 아이템 39 객체
 #
 class InputData:
     def read(self):
