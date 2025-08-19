@@ -1,5 +1,5 @@
 #
-# 아이템 39 객체
+# 아이템 39 객체를 제네릭하게 구성하려면 @classmethod를 통한 다형성을 활용하라
 #
 class InputData:
     def read(self):
